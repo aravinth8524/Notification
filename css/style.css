@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Oswald:wght@200;300;400;500;600;700&family=Raleway:wght@300;400&family=Rubik&family=Satisfy&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Oswald:wght@200;300;400;500;600;700&family=Raleway:wght@300;400&family=Rubik&family=Satisfy&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Wire+One&display=swap');
+.content{
+	background-color:rgb(240,240,240);
+	width:329px;
+	height:200px;
+	border-radius:23px;
+	margin:0 auto;
+	margin-top:14em;
+	box-shadow: 0 0 5px rgb(161 155 155);
+}
+h1{
+	margin-top:0.5px;
+	font-size: 1.7em;
+	font-family: 'Abel', sans-serif;
+    color:rgb(104,104,104);
+}
+p{
+	margin-top:-0.5em;
+	font-size:2em;
+	color:rgb(188,188,188);
+	font-family: 'Wire One', sans-seri
+	
+}
+h1,p{
+	text-align:center;
+}
+.content img{
+	background-color: rgb(240,240,240);
+    width: 35px;
+    height: 35px;
+    padding: 0.7em;
+    position: relative;
+    left: 8em;
+    top: -1.8em;
+    box-shadow: 0px 0px  5px rgb(161 155 155);
+	border-radius:50%;
+	
+}
